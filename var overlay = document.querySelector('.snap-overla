@@ -1,0 +1,2 @@
+var overlay = document.querySelector('.snap-overlay');
+overlay.scrollTop = 0;

@@ -1,0 +1,45 @@
+This ticket involves backend changes in our custom api and on frontend site some work to implement the check and update the overlay.
+
+The overlay can require substantial work if it will work with the arrows and slider event(case mobile).
+
+My estimation for implementation is 1day for desktop and 1,5 day for mobile + Code review(backebd changes) + time for release(in mobile take in averages 25 .. 30min) + test.
+
+
+NOTE: The backEnd task can include the changes for Price filter as well.
+
+
+
+gr__instyle_co_uk pw-locale-en ra1-pw-mobile ra1-pw-mobile-iphone
+
+
+=========
+===================================================================================================================================================
+
+desktop:
+http://www.instyle.co.uk/fashion/editors-picks/beach-bags?optimizely_x6500830478=1
+
+http://www.instyle.co.uk/fashion/editors-picks/shirt-dresses-the-instyle-round-up?optimizely_x6500830478=1
+
+http://www.instyle.co.uk/fashion/editors-picks/mid-heels-30-styles-you-can-walk-all-day-in/?optimizely_x6500830478=1
+
+
+Mobile:
+
+http://www.instyle.co.uk/fashion/editors-picks/shirt-dresses-the-instyle-round-up?optimizely_x6498940849=1
+
+
+http://www.instyle.co.uk/fashion/editors-picks/beach-bags?optimizely_x6498940849=1
+
+
+http://www.instyle.co.uk/fashion/editors-picks/mid-heels-30-styles-you-can-walk-all-day-in/?optimizely_x6498940849=1
+
+
+stage
+
+stage.m.instyle.co.uk/fashion/editors-picks/shirt-dresses-the-instyle-round-up?optimizely_x6498940849=1
+
+
+stage.m.instyle.co.uk/fashion/editors-picks/beach-bags?optimizely_x6498940849=1
+
+
+stage.m.instyle.co.uk/fashion/editors-picks/mid-heels-30-styles-you-can-walk-all-day-in/?optimizely_x6498940849=1
